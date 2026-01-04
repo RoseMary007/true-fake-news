@@ -45,11 +45,11 @@ This project uses **TF-IDF Vectorization** and **Logistic Regression**, making i
 
 ---
 ## 🚀 Getting Started
-1. The European Union announced new economic sanctions on Russia following diplomatic discussions among member states.
+1. **The European Union announced new economic sanctions on Russia following diplomatic discussions among member states.**
     - REAL NEWS 🟢
 
-2.Shocking secret revealed as world leaders panic over hidden global collapse plan exposed online.
+2. **Shocking secret revealed as world leaders panic over hidden global collapse plan exposed online.**
     - FAKE NEWS 🔴
 
-3.NASA confirms water on Mars
+3. NASA confirms water on Mars
     - ⚠️ Too short to classify reliably
